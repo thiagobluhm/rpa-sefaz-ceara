@@ -4,7 +4,7 @@ from robo.tarefas.tmp_tarefa_ler_proceso import TmpTarefaLerProcesso
 
 #Instanciando navegador conforme versão correta do driver.
 
-browser = Navegador("drivers/chromedriver.exe").get_navegador()
+browser = Navegador("drivers/chromedriverORIGINAL.exe").get_navegador()
 
 #instanciando tarefa
 
